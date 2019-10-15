@@ -5,18 +5,18 @@ class NavigationBar extends React.Component {
     render() {
         return (
           <Navbar  expand="lg">
-          <Navbar.Brand href="#/">Home</Navbar.Brand>
+          <Navbar.Brand href="#/" className="para-center">Home</Navbar.Brand>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse className="justify-content-end">
             <Nav >
-              <Nav.Link href="#/about"> About</Nav.Link>
-              <Nav.Link href="#/portfolio/"> Portfolio</Nav.Link>
-              <NavDropdown title="More" id="basic-nav-dropdown">
+              <Nav.Link href="#/about" className="para-center"> About</Nav.Link>
+              <Nav.Link href="#/portfolio/" className="para-center"> Portfolio</Nav.Link>
+              <NavDropdown title="More" id="basic-nav-dropdown" className="para-center">
                 <NavDropdown.Item href="#/skills">Skills</NavDropdown.Item>
                 <NavDropdown.Item href="https://cydneypollarddesigns.myportfolio.com/">Graphic Design Work</NavDropdown.Item>
                 <NavDropdown.Item href="https://github.com/cydneypo034">Github</NavDropdown.Item>
               </NavDropdown>
-              <Nav.Link href="#/contact">Contact</Nav.Link>
+              <Nav.Link href="#/contact" className="para-center">Contact</Nav.Link>
               
               <Button variant="outline-warning" className="button-text">Resume</Button>
             </Nav>
