@@ -1,6 +1,8 @@
 import React from 'react';
 import { Button } from 'react-bootstrap';
 
+
+
 class Home extends React.Component {
     render() {
         return (
@@ -14,12 +16,11 @@ class Home extends React.Component {
                     </h2>
                     
 
-                    <h1 className="text-center2">cydney pollard</h1>
-                    <h1 className="text-center2">I develop and design <br /> aiming for an impact.</h1>
+                    <h1 className="text-center2">cydney pollard.</h1>
+                    <h1 className="text-center2">A Developer and Designer.</h1>
 
                     <h2 className="para-center">
-                    I'm a software engineer with a background in graphic design, currently residing in Orlando, Florida.<br></br>
-                     If you would like to work with me, shoot me an email and let's talk!
+                    i'm a software engineer with a background in graphic design, currently residing in Orlando, Florida.<br></br>
                     </h2>
 
 
@@ -32,8 +33,11 @@ class Home extends React.Component {
                 </div>
 
 
+
+
             
-            </div>
+            </div>            
+
         )
     }
 }
