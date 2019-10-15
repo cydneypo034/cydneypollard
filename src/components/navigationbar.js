@@ -5,7 +5,7 @@ class NavigationBar extends React.Component {
     render() {
         return (
           <Navbar  expand="lg">
-          <Navbar.Brand href="/">Home</Navbar.Brand>
+          <Navbar.Brand href="#/">Home</Navbar.Brand>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse className="justify-content-end">
             <Nav >
