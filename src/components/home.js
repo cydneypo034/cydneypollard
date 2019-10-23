@@ -11,7 +11,7 @@ class Home extends React.Component {
                 <section className="hero is-md">
                 <div className="hero-body">
 
-                    <h2 className="para-center">
+                    <h2 className="home-center">
                         my name is
                     </h2>
                     
@@ -19,7 +19,7 @@ class Home extends React.Component {
                     <h1 className="text-center2">cydney pollard.</h1>
                     <h1 className="text-center2">A Developer and Designer.</h1>
 
-                    <h2 className="para-center">
+                    <h2 className="home-center">
                     i'm a software engineer with a background in graphic design, currently residing in Orlando, Florida.<br></br>
                     </h2>
 
