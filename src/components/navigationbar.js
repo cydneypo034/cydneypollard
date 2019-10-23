@@ -18,7 +18,7 @@ class NavigationBar extends React.Component {
               <Nav.Link href="#/skills" className="para-center">Skills</Nav.Link>
               <Nav.Link href="#/contact" className="para-center">Contact</Nav.Link>
               
-              <Button variant="outline-warning" className="button-text">Resume</Button>
+              <Button  variant="outline-warning" href="https://pdfhost.io/v/AMBVbyVZS_cydneypollardresume102019pdf.pdf" className="button-text">Resume</Button>
             </Nav>
           </Navbar.Collapse>
         </Navbar>

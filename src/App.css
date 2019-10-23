@@ -127,6 +127,11 @@ section {
   opacity: 1;
 }
 
+.logo-image {
+  height: 20%;
+  width: 20%;
+}
+
 .text {
   color: black;
   font-size: 20px;
