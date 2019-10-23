@@ -5,6 +5,7 @@ import pony from './images/pony.png';
 import feminaku from './images/feminakufrontpage.png';
 import github from './images/githublogo.png';
 import heroku from './images/heroku.png';
+import netlify from './images/logomark.png';
 
 
 class Portfolio extends React.Component {
@@ -61,8 +62,11 @@ class Portfolio extends React.Component {
                     <p className="text">My Best Friend Says is a rendition of the classic game of Simon Says
                     using a theme of the children's television show My Little Pony: Friendship is Magic.
                         <br />
+                        <br />
                         <a href="https://github.com/cydneypo034/mybestfriendsays"><img src={github} 
                         alt="github" className="logo-image" height="100px" width="100px"/></a>
+                        <a href="https://adoring-bhaskara-ff6b52.netlify.com/"><img src={netlify}
+                        alt="netlify" className="logo-image" height="100px" width="100px" /></a>
                          </p>
                     
                     </div>
@@ -93,43 +97,3 @@ class Portfolio extends React.Component {
 }
 
 export default Portfolio;
-
-/*
-<div className="card-image">
-            
-            <div className="box">
-            <div className="card-image2">
-                <figure className="image is-2by2">
-                <img src={marys} alt="Mary's Treats game"/>
-                </figure>
-            </div>
-            <div className="card-content">
-                <div className="para-center">
-                Mary's Treats is inspired by the original Hangman game. There are hints given at the bottom for the user to guess easily 
-                        which flavor of ice cream is being displayed. If they get more than 6 letters wrong, they lose the game.
-                </div>
-                <a href="https://github.com/cydneypo034/mary-streats" className="button is-primary">Mary's Treats' Github</a>
-            </div>
-            </div>
-            
-
- 
-
-            <div className="box">
-            <div className="card-image3">
-                <figure className="image is-2by2">
-                <img src={feminaku} alt="feminaku social network" />
-                </figure>
-            </div>
-            <div className="card-content">
-            <div className="para-center">
-                Feminaku is an upcoming social networking application for women who love all things anime. 
-                        Feminaku has a target audience of women because of the sarcity of social networking sites geared towards 
-                        female anime lovers is low.  
-            </div>
-            <a  href="https://github.com/cydneypo034/feminaku" className="button is-primary" >Feminaku's Github</a>
-            </div>
-            </div>
-
-            </div>
-*/
