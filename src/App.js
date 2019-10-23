@@ -5,6 +5,8 @@ import { HashRouter, Route, Switch } from 'react-router-dom';
 import home from './components/home.js';
 import portfolio from './components/portfolio.js';
 import about from './components/about.js';
+import skills from './components/skills.js';
+import contact from './components/contact.js';
 
 function App() {
   return (
@@ -14,6 +16,8 @@ function App() {
         <Route path="/" exact component={home} />
         <Route path="/portfolio" component={portfolio} />
         <Route path="/about" component={about} />
+        <Route path="/skills" component={skills} />
+        <Route path="/contact" component={contact} />
       </Switch>
       </HashRouter>
   );
