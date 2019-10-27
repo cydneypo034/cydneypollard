@@ -25,7 +25,7 @@ class Home extends React.Component {
 
 
                     <div className="homepage-button">
-                    <Button variant="outline-warning" className="button-text" href="https://github.com/cydneypo034">Github</Button>
+                    <Button variant="outline-warning" className="button-text" href="https://github.com/cydneypo034">Github</Button> &nbsp;
                     <Button variant="outline-warning" className="button-text" href="https://www.linkedin.com/in/cydney-pollard-47aa6212a/" >LinkedIn</Button>
                     </div>
                 </div>
