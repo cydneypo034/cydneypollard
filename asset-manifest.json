@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/cydneypollard/static/css/main.eff14e34.chunk.css",
-    "main.js": "/cydneypollard/static/js/main.4d9f5cc7.chunk.js",
-    "main.js.map": "/cydneypollard/static/js/main.4d9f5cc7.chunk.js.map",
+    "main.css": "/cydneypollard/static/css/main.571eff35.chunk.css",
+    "main.js": "/cydneypollard/static/js/main.9ae7dab6.chunk.js",
+    "main.js.map": "/cydneypollard/static/js/main.9ae7dab6.chunk.js.map",
     "runtime-main.js": "/cydneypollard/static/js/runtime-main.78cae229.js",
     "runtime-main.js.map": "/cydneypollard/static/js/runtime-main.78cae229.js.map",
     "static/js/2.397783f5.chunk.js": "/cydneypollard/static/js/2.397783f5.chunk.js",
     "static/js/2.397783f5.chunk.js.map": "/cydneypollard/static/js/2.397783f5.chunk.js.map",
     "index.html": "/cydneypollard/index.html",
-    "precache-manifest.c43f41f548700a26ec100dace13d57c9.js": "/cydneypollard/precache-manifest.c43f41f548700a26ec100dace13d57c9.js",
+    "precache-manifest.559d2e3daae93c6da3ec1c0b367a75ab.js": "/cydneypollard/precache-manifest.559d2e3daae93c6da3ec1c0b367a75ab.js",
     "service-worker.js": "/cydneypollard/service-worker.js",
-    "static/css/main.eff14e34.chunk.css.map": "/cydneypollard/static/css/main.eff14e34.chunk.css.map",
+    "static/css/main.571eff35.chunk.css.map": "/cydneypollard/static/css/main.571eff35.chunk.css.map",
     "static/media/Screenshot101.png": "/cydneypollard/static/media/Screenshot101.f61891d0.png",
     "static/media/feminakufrontpage.png": "/cydneypollard/static/media/feminakufrontpage.0a3bfa20.png",
     "static/media/fiaworld.png": "/cydneypollard/static/media/fiaworld.c4f13c1b.png",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.78cae229.js",
     "static/js/2.397783f5.chunk.js",
-    "static/css/main.eff14e34.chunk.css",
-    "static/js/main.4d9f5cc7.chunk.js"
+    "static/css/main.571eff35.chunk.css",
+    "static/js/main.9ae7dab6.chunk.js"
   ]
 }
