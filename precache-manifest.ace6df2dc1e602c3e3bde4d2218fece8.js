@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "914e883fea418e8e0740fd592266a6c1",
+    "revision": "9ecfd3b4a6d62f5315bf90b5bbc31bdb",
     "url": "/cydneypollard/index.html"
   },
   {
-    "revision": "2a494c9a23039286ddf6",
+    "revision": "94710a6eada8c98eed0a",
     "url": "/cydneypollard/static/css/main.571eff35.chunk.css"
   },
   {
-    "revision": "5f8937a72578053a3d83",
-    "url": "/cydneypollard/static/js/2.397783f5.chunk.js"
+    "revision": "984ce9792c16e12aba4e",
+    "url": "/cydneypollard/static/js/2.b71f1dd4.chunk.js"
   },
   {
-    "revision": "2a494c9a23039286ddf6",
-    "url": "/cydneypollard/static/js/main.9ae7dab6.chunk.js"
+    "revision": "94710a6eada8c98eed0a",
+    "url": "/cydneypollard/static/js/main.25a5629a.chunk.js"
   },
   {
     "revision": "4f4ba2a8c4bc2a06bc1a",
@@ -24,12 +24,28 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cydneypollard/static/media/Screenshot101.f61891d0.png"
   },
   {
+    "revision": "d2c5a06b941890840245de29ae88fa02",
+    "url": "/cydneypollard/static/media/adobeportfolio.d2c5a06b.png"
+  },
+  {
+    "revision": "bd91f93cf9b8a60516603c19199e09a7",
+    "url": "/cydneypollard/static/media/aesthetically.bd91f93c.jpg"
+  },
+  {
+    "revision": "87a30d5ca998d4b8f7a58cf755070273",
+    "url": "/cydneypollard/static/media/akinaimage.87a30d5c.png"
+  },
+  {
     "revision": "0a3bfa20432124393841efa242c9b0da",
     "url": "/cydneypollard/static/media/feminakufrontpage.0a3bfa20.png"
   },
   {
     "revision": "c4f13c1b32fbde74d9831467dc0a90c0",
     "url": "/cydneypollard/static/media/fiaworld.c4f13c1b.png"
+  },
+  {
+    "revision": "00072634ecf485fe1cfc1c88a65769fa",
+    "url": "/cydneypollard/static/media/graceful.00072634.jpg"
   },
   {
     "revision": "95e178f5b1dc1a2327595784442a866c",

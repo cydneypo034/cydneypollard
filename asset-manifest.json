@@ -1,26 +1,30 @@
 {
   "files": {
     "main.css": "/cydneypollard/static/css/main.571eff35.chunk.css",
-    "main.js": "/cydneypollard/static/js/main.9ae7dab6.chunk.js",
-    "main.js.map": "/cydneypollard/static/js/main.9ae7dab6.chunk.js.map",
+    "main.js": "/cydneypollard/static/js/main.25a5629a.chunk.js",
+    "main.js.map": "/cydneypollard/static/js/main.25a5629a.chunk.js.map",
     "runtime-main.js": "/cydneypollard/static/js/runtime-main.78cae229.js",
     "runtime-main.js.map": "/cydneypollard/static/js/runtime-main.78cae229.js.map",
-    "static/js/2.397783f5.chunk.js": "/cydneypollard/static/js/2.397783f5.chunk.js",
-    "static/js/2.397783f5.chunk.js.map": "/cydneypollard/static/js/2.397783f5.chunk.js.map",
+    "static/js/2.b71f1dd4.chunk.js": "/cydneypollard/static/js/2.b71f1dd4.chunk.js",
+    "static/js/2.b71f1dd4.chunk.js.map": "/cydneypollard/static/js/2.b71f1dd4.chunk.js.map",
     "index.html": "/cydneypollard/index.html",
-    "precache-manifest.559d2e3daae93c6da3ec1c0b367a75ab.js": "/cydneypollard/precache-manifest.559d2e3daae93c6da3ec1c0b367a75ab.js",
+    "precache-manifest.ace6df2dc1e602c3e3bde4d2218fece8.js": "/cydneypollard/precache-manifest.ace6df2dc1e602c3e3bde4d2218fece8.js",
     "service-worker.js": "/cydneypollard/service-worker.js",
     "static/css/main.571eff35.chunk.css.map": "/cydneypollard/static/css/main.571eff35.chunk.css.map",
     "static/media/Screenshot101.png": "/cydneypollard/static/media/Screenshot101.f61891d0.png",
+    "static/media/adobeportfolio.png": "/cydneypollard/static/media/adobeportfolio.d2c5a06b.png",
+    "static/media/aesthetically.jpg": "/cydneypollard/static/media/aesthetically.bd91f93c.jpg",
+    "static/media/akinaimage.png": "/cydneypollard/static/media/akinaimage.87a30d5c.png",
     "static/media/feminakufrontpage.png": "/cydneypollard/static/media/feminakufrontpage.0a3bfa20.png",
     "static/media/fiaworld.png": "/cydneypollard/static/media/fiaworld.c4f13c1b.png",
+    "static/media/graceful.jpg": "/cydneypollard/static/media/graceful.00072634.jpg",
     "static/media/logomark.png": "/cydneypollard/static/media/logomark.95e178f5.png",
     "static/media/pony.png": "/cydneypollard/static/media/pony.c704df5b.png"
   },
   "entrypoints": [
     "static/js/runtime-main.78cae229.js",
-    "static/js/2.397783f5.chunk.js",
+    "static/js/2.b71f1dd4.chunk.js",
     "static/css/main.571eff35.chunk.css",
-    "static/js/main.9ae7dab6.chunk.js"
+    "static/js/main.25a5629a.chunk.js"
   ]
 }
