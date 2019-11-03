@@ -1,12 +1,17 @@
 import React from 'react';
+import cydney from './images/cydneyprofilepic2.jpg'
 
 class About extends React.Component {
     render() {
         return (
             <div>
                 <div className="container">
-                    <h2 className="text-center">here's my story</h2>
-                <p className="para-center">I love making people's ideas into tangible things that help them reach more people
+                    
+                
+
+                <p className="para-center">
+                <h2 className="text-center">here's my story</h2>
+                I love making people's ideas into tangible things that help them reach more people
                 and increase their impact. Since I was a child, I have been an artist, but would get discouraged in pursuing it as a career path
                 because of the fear of being a "starving artist" and I allowed comparison between myself and other classically trained artist to disrupt that pursue.
                 I started working as a custodian at a theme park and realized that I was working in a job that I only took because I was afraid to pursue after what I 
@@ -16,6 +21,9 @@ class About extends React.Component {
                 those ideas and take them a step further. 
                 </p>
                 <br />
+                <figure className="image is-1by1">
+                    <img className="is-rounded" src={cydney} alt="girl with yellow sweatshirt"  />
+                </figure>
                 </div>
             </div>
         )

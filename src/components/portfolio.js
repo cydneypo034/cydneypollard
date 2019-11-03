@@ -13,6 +13,10 @@ class Portfolio extends React.Component {
         return (
             <div >
             <h1 className="text-center">my portfolio</h1>
+            <h2 className="para-center">Web development has given me the opportunity to take a small vision and transform it into
+            an expanded story. Viewers can learn about what makes a brand who they are through where they got started, what they offer,
+            and where they can be contacted. Below are a few examples of my web applications that I completed while attending my
+            coding bootcamp, General Assembly in Atlanta. </h2>
             
             <section>            
             <div className="card-wrapper">

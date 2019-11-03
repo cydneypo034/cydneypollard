@@ -3,11 +3,16 @@ import akina from './images/akinaimage.png';
 import aesthetic from './images/aesthetically.jpg';
 import adobeport from './images/adobeportfolio.png';
 import graceful from './images/graceful.jpg';
+import catchfox from './images/catch.png';
 
 class GraphicDesign extends React.Component {
     render(){
         return(
             <div>
+                 <h1 className="text-center">my graphic design work</h1>
+                 <h2 className="para-center">As an identity designer, I take pride in telling a brand's story because 
+                 an identity gives a business "visual form". To view more examples like this, please feel free to visit
+                <a href="https://cydneypollarddesigns.myportfolio.com/work"> my graphic design portfolio</a> here. </h2>
                 <section>            
                 <div className="card-wrapper">
 
@@ -48,7 +53,23 @@ class GraphicDesign extends React.Component {
                     <div className="overlay">
                     
                     <p className="text">Graceful Crowns is a hair company located in Carrollton, Georgia that offers 
-                    hair bundles, wig-making services and lash extension services.
+                    hair bundles, wig-making services and lash extension services. 
+                    <br />
+                    <br />
+                    <a href="https://cydneypollarddesigns.myportfolio.com/catch-a-fox"><img src={adobeport}
+                    alt="portfolio" className="logo-image" height="100px" width="100px"/></a>
+                    </p>
+                    
+                    </div>
+                    
+                </div>
+
+                <div className="card">
+                    <img src={catchfox} alt="purple crown" className="image"/>
+                    <div className="overlay">
+                    
+                    <p className="text">Catch a Fox is an identity design that was curated for the Daily Logo Challenge
+                    and the prompt was to design a logo based on an animal.
                     <br />
                     <br />
                     <a href="https://cydneypollarddesigns.myportfolio.com/graceful-crowns"><img src={adobeport}
@@ -58,6 +79,8 @@ class GraphicDesign extends React.Component {
                     </div>
                     
                 </div>
+
+               
                 </div>
                 </section>
                 </div>
