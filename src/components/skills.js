@@ -26,7 +26,12 @@ class Skills extends React.Component {
             <div className="techs">
                     <p className="skills-center">Tools and Platforms: </p>
                         <p className="skills-langs">Git Version Control,
-                        Visual Studio Code, Github, Heroku, Netlify</p>
+                        Visual Studio Code, Github, Heroku, Netlify, Figma, Trello</p>
+                    </div>
+
+                    <div className="techs">
+                    <p className="skills-center">Graphic Design Tools: </p>
+                        <p className="skills-langs">Adobe Illustator, Photoshop, InDesign</p>
                     </div>
             </div>
             </div>
