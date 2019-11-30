@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "912df9cd1c5bc6a162ee3a2dd1428862",
+    "revision": "4444163d68a86a77817d21e40ca2ac68",
     "url": "/cydneypollard/index.html"
   },
   {
-    "revision": "23a96e3dd5365fa6bb82",
-    "url": "/cydneypollard/static/css/main.254681ad.chunk.css"
+    "revision": "199d00eb6928d332ab0e",
+    "url": "/cydneypollard/static/css/main.d26d9973.chunk.css"
   },
   {
     "revision": "6638449e630283a12201",
     "url": "/cydneypollard/static/js/2.d9c0d585.chunk.js"
   },
   {
-    "revision": "23a96e3dd5365fa6bb82",
-    "url": "/cydneypollard/static/js/main.ebb00390.chunk.js"
+    "revision": "199d00eb6928d332ab0e",
+    "url": "/cydneypollard/static/js/main.31fa0698.chunk.js"
   },
   {
     "revision": "4f4ba2a8c4bc2a06bc1a",
@@ -38,10 +38,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "34063e0caa25862b36b12bb335dff0f9",
     "url": "/cydneypollard/static/media/catch.34063e0c.png"
-  },
-  {
-    "revision": "06ac24133cd0eb49e411c91682d9c6a0",
-    "url": "/cydneypollard/static/media/cydneyprofilepic2.06ac2413.jpg"
   },
   {
     "revision": "0a3bfa20432124393841efa242c9b0da",

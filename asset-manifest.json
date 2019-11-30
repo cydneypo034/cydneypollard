@@ -1,22 +1,21 @@
 {
   "files": {
-    "main.css": "/cydneypollard/static/css/main.254681ad.chunk.css",
-    "main.js": "/cydneypollard/static/js/main.ebb00390.chunk.js",
-    "main.js.map": "/cydneypollard/static/js/main.ebb00390.chunk.js.map",
+    "main.css": "/cydneypollard/static/css/main.d26d9973.chunk.css",
+    "main.js": "/cydneypollard/static/js/main.31fa0698.chunk.js",
+    "main.js.map": "/cydneypollard/static/js/main.31fa0698.chunk.js.map",
     "runtime-main.js": "/cydneypollard/static/js/runtime-main.78cae229.js",
     "runtime-main.js.map": "/cydneypollard/static/js/runtime-main.78cae229.js.map",
     "static/js/2.d9c0d585.chunk.js": "/cydneypollard/static/js/2.d9c0d585.chunk.js",
     "static/js/2.d9c0d585.chunk.js.map": "/cydneypollard/static/js/2.d9c0d585.chunk.js.map",
     "index.html": "/cydneypollard/index.html",
-    "precache-manifest.3d0d7b0ddbb40327f3ba883ed6fa91e1.js": "/cydneypollard/precache-manifest.3d0d7b0ddbb40327f3ba883ed6fa91e1.js",
+    "precache-manifest.d7e72c7f14d036dbff7933c5521c9716.js": "/cydneypollard/precache-manifest.d7e72c7f14d036dbff7933c5521c9716.js",
     "service-worker.js": "/cydneypollard/service-worker.js",
-    "static/css/main.254681ad.chunk.css.map": "/cydneypollard/static/css/main.254681ad.chunk.css.map",
+    "static/css/main.d26d9973.chunk.css.map": "/cydneypollard/static/css/main.d26d9973.chunk.css.map",
     "static/media/Screenshot101.png": "/cydneypollard/static/media/Screenshot101.f61891d0.png",
     "static/media/adobeportfolio.png": "/cydneypollard/static/media/adobeportfolio.d2c5a06b.png",
     "static/media/aesthetically.jpg": "/cydneypollard/static/media/aesthetically.bd91f93c.jpg",
     "static/media/akinaimage.png": "/cydneypollard/static/media/akinaimage.87a30d5c.png",
     "static/media/catch.png": "/cydneypollard/static/media/catch.34063e0c.png",
-    "static/media/cydneyprofilepic2.jpg": "/cydneypollard/static/media/cydneyprofilepic2.06ac2413.jpg",
     "static/media/feminakufrontpage.png": "/cydneypollard/static/media/feminakufrontpage.0a3bfa20.png",
     "static/media/fiaworld.png": "/cydneypollard/static/media/fiaworld.c4f13c1b.png",
     "static/media/graceful.jpg": "/cydneypollard/static/media/graceful.00072634.jpg",
@@ -26,7 +25,7 @@
   "entrypoints": [
     "static/js/runtime-main.78cae229.js",
     "static/js/2.d9c0d585.chunk.js",
-    "static/css/main.254681ad.chunk.css",
-    "static/js/main.ebb00390.chunk.js"
+    "static/css/main.d26d9973.chunk.css",
+    "static/js/main.31fa0698.chunk.js"
   ]
 }
