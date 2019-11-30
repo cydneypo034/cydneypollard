@@ -6,8 +6,8 @@ import home from './components/home/home';
 import portfolio from './components/portfolio.js';
 import about from './components/about/about.js';
 import graphicarts from './components/graphicarts.js';
-import skills from './components/skills.js';
-import contact from './components/contact.js';
+import skills from './components/skills/skills';
+import contact from './components/contact/contact';
 
 function App() {
   return (
