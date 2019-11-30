@@ -3,9 +3,9 @@ import './App.css';
 import Navigation from './components/navigationbar.js';
 import { HashRouter, Route, Switch } from 'react-router-dom';
 import home from './components/home/home';
-import portfolio from './components/portfolio.js';
-import about from './components/about/about.js';
-import graphicarts from './components/graphicarts.js';
+import portfolio from './components/portfolio/portfolio.js';
+import about from './components/about/about';
+import graphicarts from './components/graphicarts/graphicarts';
 import skills from './components/skills/skills';
 import contact from './components/contact/contact';
 

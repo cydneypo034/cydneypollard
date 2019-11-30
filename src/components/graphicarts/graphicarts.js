@@ -1,9 +1,10 @@
 import React from 'react';
-import akina from './images/akinaimage.png';
-import aesthetic from './images/aesthetically.jpg';
-import adobeport from './images/adobeportfolio.png';
-import graceful from './images/graceful.jpg';
-import catchfox from './images/catch.png';
+import akina from '../images/akinaimage.png';
+import aesthetic from '../images/aesthetically.jpg';
+import adobeport from '../images/adobeportfolio.png';
+import graceful from '../images/graceful.jpg';
+import catchfox from '../images/catch.png';
+import './graphicarts.css';
 
 class GraphicDesign extends React.Component {
     render(){

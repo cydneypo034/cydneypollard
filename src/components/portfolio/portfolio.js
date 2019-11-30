@@ -1,12 +1,12 @@
 import React from 'react';
-import artist from './images/Screenshot101.png';
-import fiaworld from './images/fiaworld.png';
-import pony from './images/pony.png';
-import feminaku from './images/feminakufrontpage.png';
-import github from './images/githublogo.png';
-import heroku from './images/heroku.png';
-import netlify from './images/logomark.png';
-
+import artist from '../images/Screenshot101.png';
+import fiaworld from '../images/fiaworld.png';
+import pony from '../images/pony.png';
+import feminaku from '../images/feminakufrontpage.png';
+import github from '../images/githublogo.png';
+import heroku from '../images/heroku.png';
+import netlify from '../images/logomark.png';
+import './portfolio.css';
 
 class Portfolio extends React.Component {
     render() {
