@@ -1,6 +1,6 @@
 import React from 'react';
 import { Button } from 'react-bootstrap';
-
+import './home.css';
 
 
 class Home extends React.Component {
@@ -16,8 +16,8 @@ class Home extends React.Component {
                     </h2>
                     
 
-                    <h1 className="text-center2">cydney pollard.</h1>
-                    <h1 className="text-center2">A Developer and Designer.</h1>
+                    <h1 className="home-content-center">cydney pollard.</h1>
+                    <h1 className="home-content-center">A Developer and Designer.</h1>
 
                     <h2 className="home-center">
                     i'm a software engineer with a background in graphic design, currently residing in Orlando, Florida.<br></br>

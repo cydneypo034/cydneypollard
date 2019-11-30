@@ -21,9 +21,7 @@ class About extends React.Component {
                 those ideas and take them a step further. 
                 </p>
                 <br />
-                <figure className="image is-1by1">
-                    <img className="is-rounded" src={cydney} alt="girl with yellow sweatshirt"  />
-                </figure>
+                
                 </div>
             </div>
         )

@@ -1,0 +1,19 @@
+.home-content-center {
+    font-family: filicudi-solid, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 70px;
+    color: rgb(254, 217, 8);
+    text-align: left;
+  }
+
+.home-center {
+    text-align: left;
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+    color: black;
+  }
+
+.homepage-button{
+    margin-top: 20px;
+  }

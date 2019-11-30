@@ -2,7 +2,7 @@ import React from 'react';
 import './App.css';
 import Navigation from './components/navigationbar.js';
 import { HashRouter, Route, Switch } from 'react-router-dom';
-import home from './components/home.js';
+import home from './components/home/home';
 import portfolio from './components/portfolio.js';
 import about from './components/about.js';
 import graphicarts from './components/graphicarts.js';
