@@ -2,10 +2,8 @@ import React from 'react';
 import {Button} from 'react-bootstrap';
 import './contact.css';
 
-class Contact extends React.Component {
-    render() {
-        return (
-            <div>
+const Contact = () => (
+    <div>
             <div className="text-center">
                 Contact Me!
             </div>
@@ -32,13 +30,10 @@ class Contact extends React.Component {
                 </p>
             </div>
             
-
             </div>
 
             
             </div>
-        )
-    }
-}
+)
 
 export default Contact;

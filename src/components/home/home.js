@@ -3,10 +3,8 @@ import { Button } from 'react-bootstrap';
 import './home.css';
 
 
-class Home extends React.Component {
-    render() {
-        return (
-            <div>
+const Home = () => (
+    <div>
                 <div className="tinted-image">
                 <section className="hero is-md">
                 <div className="hero-body">
@@ -37,9 +35,6 @@ class Home extends React.Component {
 
             
             </div>            
-
-        )
-    }
-}
+)
 
 export default Home;
