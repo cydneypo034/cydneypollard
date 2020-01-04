@@ -11,8 +11,6 @@ class NavigationBar extends React.Component {
             <Nav >
               <Nav.Link href="#/about" className="para-center"> About</Nav.Link>
               <Nav.Link href="#/portfolio" className="para-center"> Portfolio</Nav.Link>
-              <Nav.Link href="#/graphicarts" className="para-center">Graphic Design</Nav.Link>
-              <Nav.Link href="#/finearts" className="para-center">Fine Arts</Nav.Link>
               <Nav.Link href="#/skills" className="para-center">Skills</Nav.Link>
               <Nav.Link href="#/contact" className="para-center">Contact</Nav.Link>
               
