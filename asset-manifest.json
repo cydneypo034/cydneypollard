@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/cydneypollard/static/css/main.3a79de04.chunk.css",
+    "main.css": "/cydneypollard/static/css/main.b6512d3a.chunk.css",
     "main.js": "/cydneypollard/static/js/main.e4d3508a.chunk.js",
     "main.js.map": "/cydneypollard/static/js/main.e4d3508a.chunk.js.map",
     "runtime-main.js": "/cydneypollard/static/js/runtime-main.78cae229.js",
@@ -8,9 +8,9 @@
     "static/js/2.19e738d1.chunk.js": "/cydneypollard/static/js/2.19e738d1.chunk.js",
     "static/js/2.19e738d1.chunk.js.map": "/cydneypollard/static/js/2.19e738d1.chunk.js.map",
     "index.html": "/cydneypollard/index.html",
-    "precache-manifest.e6c6d1c1c7fb24b3d0319dd64bf6f827.js": "/cydneypollard/precache-manifest.e6c6d1c1c7fb24b3d0319dd64bf6f827.js",
+    "precache-manifest.e119bd7d6d49867dd55d13b7682e444c.js": "/cydneypollard/precache-manifest.e119bd7d6d49867dd55d13b7682e444c.js",
     "service-worker.js": "/cydneypollard/service-worker.js",
-    "static/css/main.3a79de04.chunk.css.map": "/cydneypollard/static/css/main.3a79de04.chunk.css.map",
+    "static/css/main.b6512d3a.chunk.css.map": "/cydneypollard/static/css/main.b6512d3a.chunk.css.map",
     "static/media/Screenshot101.png": "/cydneypollard/static/media/Screenshot101.f61891d0.png",
     "static/media/crownclothesproj.png": "/cydneypollard/static/media/crownclothesproj.30b8e8d3.png",
     "static/media/cydneyprofilepic.jpg": "/cydneypollard/static/media/cydneyprofilepic.7dffe192.jpg",
@@ -22,7 +22,7 @@
   "entrypoints": [
     "static/js/runtime-main.78cae229.js",
     "static/js/2.19e738d1.chunk.js",
-    "static/css/main.3a79de04.chunk.css",
+    "static/css/main.b6512d3a.chunk.css",
     "static/js/main.e4d3508a.chunk.js"
   ]
 }
