@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "63f31982bb00dd8580b933e300b8d6d9",
+    "revision": "f77dea484283d3057b3d76562193b0c6",
     "url": "/cydneypollard/index.html"
   },
   {
-    "revision": "b1ec35a4049e2a067a47",
-    "url": "/cydneypollard/static/css/main.ce766a72.chunk.css"
+    "revision": "1de8324724d579768c53",
+    "url": "/cydneypollard/static/css/main.3a79de04.chunk.css"
   },
   {
-    "revision": "7d4ce8733bef2a1c3f04",
-    "url": "/cydneypollard/static/js/2.327b9a3f.chunk.js"
+    "revision": "1c13951b9b83dca2364d",
+    "url": "/cydneypollard/static/js/2.19e738d1.chunk.js"
   },
   {
-    "revision": "b1ec35a4049e2a067a47",
-    "url": "/cydneypollard/static/js/main.c839ed43.chunk.js"
+    "revision": "1de8324724d579768c53",
+    "url": "/cydneypollard/static/js/main.e4d3508a.chunk.js"
   },
   {
     "revision": "4f4ba2a8c4bc2a06bc1a",
@@ -26,6 +26,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "30b8e8d32d4d3ca111d8b6cf53a41d60",
     "url": "/cydneypollard/static/media/crownclothesproj.30b8e8d3.png"
+  },
+  {
+    "revision": "7dffe1925523d6aabc2515a770a03087",
+    "url": "/cydneypollard/static/media/cydneyprofilepic.7dffe192.jpg"
   },
   {
     "revision": "0a3bfa20432124393841efa242c9b0da",
