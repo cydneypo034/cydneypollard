@@ -7,9 +7,14 @@
     text-align: center;
   }
 
-  .para-center {
+  .about-center {
     text-align: center;
-    font-size: 20px;
+    font-size: 15px;
     font-family: 'Montserrat', sans-serif;
     color: black;
   }
+
+.profilepic-image {
+  width: 50%;
+  height: 50%;
+}
