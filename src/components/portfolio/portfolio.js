@@ -6,6 +6,8 @@ import feminaku from '../images/feminakufrontpage.png';
 import github from '../images/githublogo.png';
 import heroku from '../images/heroku.png';
 import netlify from '../images/logomark.png';
+import crownclothing from '../images/crownproject.png';
+
 import './portfolio.css';
 
 class Portfolio extends React.Component {
@@ -20,6 +22,42 @@ class Portfolio extends React.Component {
             
             <section>            
             <div className="card-wrapper">
+
+
+            <div className="card">
+                    <img src={crownclothing} alt="clothing ecommerce store" className="image"/>
+                    <div className="overlay">
+                    
+                    <p className="text">CRWN Clothing Ltd. is a e-commerce fashion website. 
+                    Made with React, React Router DOM, React Redux, Stripe API, Firebase, and Reselect
+                        <br />
+                        <br />
+                        <a href="https://github.com/cydneypo034/crown-clothing"><img src={github} 
+                        alt="github" className="logo-image" height="100px" width="100px"/></a>
+                        <a href="https://crownclothes.herokuapp.com/"><img src={heroku}
+                        alt="netlify" className="logo-image" height="100px" width="100px" /></a>
+                         </p>
+                    
+                    </div>
+                </div>
+
+                <div className="card">
+                    <img src={feminaku} alt="feminkau" className="image"/>
+                    <div className="overlay">
+                    
+                    <p className="text">Feminaku is an upcoming social networking 
+                    application for women who love all things anime. 
+                        <br />
+                        <br />
+                        <a href="https://github.com/cydneypo034/feminakutwo"><img src={github} 
+                        alt="github" className="logo-image" height="100px" width="100px"/></a>
+                        <a href="https://feminaku.herokuapp.com/"><img src={heroku}
+                        alt="heroku" className="logo-image" height="100px" width="100px"/></a>
+                         </p>
+                    
+                    </div>
+                </div>
+
 
                 <div className="card">
                     <img src={artist} alt="Artist" className="image"/>
@@ -76,21 +114,11 @@ class Portfolio extends React.Component {
                     </div>
                 </div>
 
-                <div className="card">
-                    <img src={feminaku} alt="feminkau" className="image"/>
-                    <div className="overlay">
-                    
-                    <p className="text">Feminaku is an upcoming social networking application for women who love all things anime. 
-                        <br />
-                        <br />
-                        <a href="https://github.com/cydneypo034/feminakutwo"><img src={github} 
-                        alt="github" className="logo-image" height="100px" width="100px"/></a>
-                        <a href="https://feminaku.herokuapp.com/"><img src={heroku}
-                        alt="heroku" className="logo-image" height="100px" width="100px"/></a>
-                         </p>
-                    
-                    </div>
-                </div>
+               
+                
+
+
+
                 </div>
 
             </section>
