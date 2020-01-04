@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/cydneypollard/static/css/main.4ff443d6.chunk.css",
-    "main.js": "/cydneypollard/static/js/main.65e6e9ce.chunk.js",
-    "main.js.map": "/cydneypollard/static/js/main.65e6e9ce.chunk.js.map",
+    "main.js": "/cydneypollard/static/js/main.10c892dc.chunk.js",
+    "main.js.map": "/cydneypollard/static/js/main.10c892dc.chunk.js.map",
     "runtime-main.js": "/cydneypollard/static/js/runtime-main.78cae229.js",
     "runtime-main.js.map": "/cydneypollard/static/js/runtime-main.78cae229.js.map",
     "static/js/2.4a1884fe.chunk.js": "/cydneypollard/static/js/2.4a1884fe.chunk.js",
     "static/js/2.4a1884fe.chunk.js.map": "/cydneypollard/static/js/2.4a1884fe.chunk.js.map",
     "index.html": "/cydneypollard/index.html",
-    "precache-manifest.a84690c9bcb1c0f621358c27447aac93.js": "/cydneypollard/precache-manifest.a84690c9bcb1c0f621358c27447aac93.js",
+    "precache-manifest.39d3030a9494759a6653064e329c2920.js": "/cydneypollard/precache-manifest.39d3030a9494759a6653064e329c2920.js",
     "service-worker.js": "/cydneypollard/service-worker.js",
     "static/css/main.4ff443d6.chunk.css.map": "/cydneypollard/static/css/main.4ff443d6.chunk.css.map",
     "static/media/Screenshot101.png": "/cydneypollard/static/media/Screenshot101.f61891d0.png",
@@ -16,7 +16,7 @@
     "static/media/aesthetically.jpg": "/cydneypollard/static/media/aesthetically.bd91f93c.jpg",
     "static/media/akinaimage.png": "/cydneypollard/static/media/akinaimage.87a30d5c.png",
     "static/media/catch.png": "/cydneypollard/static/media/catch.34063e0c.png",
-    "static/media/crownproject.png": "/cydneypollard/static/media/crownproject.f8caa529.png",
+    "static/media/crownclothesproj.png": "/cydneypollard/static/media/crownclothesproj.30b8e8d3.png",
     "static/media/feminakufrontpage.png": "/cydneypollard/static/media/feminakufrontpage.0a3bfa20.png",
     "static/media/fiaworld.png": "/cydneypollard/static/media/fiaworld.c4f13c1b.png",
     "static/media/graceful.jpg": "/cydneypollard/static/media/graceful.00072634.jpg",
@@ -27,6 +27,6 @@
     "static/js/runtime-main.78cae229.js",
     "static/js/2.4a1884fe.chunk.js",
     "static/css/main.4ff443d6.chunk.css",
-    "static/js/main.65e6e9ce.chunk.js"
+    "static/js/main.10c892dc.chunk.js"
   ]
 }
