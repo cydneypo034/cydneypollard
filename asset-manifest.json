@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/cydneypollard/static/css/main.b6512d3a.chunk.css",
-    "main.js": "/cydneypollard/static/js/main.e4d3508a.chunk.js",
-    "main.js.map": "/cydneypollard/static/js/main.e4d3508a.chunk.js.map",
-    "runtime-main.js": "/cydneypollard/static/js/runtime-main.78cae229.js",
-    "runtime-main.js.map": "/cydneypollard/static/js/runtime-main.78cae229.js.map",
-    "static/js/2.19e738d1.chunk.js": "/cydneypollard/static/js/2.19e738d1.chunk.js",
-    "static/js/2.19e738d1.chunk.js.map": "/cydneypollard/static/js/2.19e738d1.chunk.js.map",
-    "index.html": "/cydneypollard/index.html",
-    "precache-manifest.e119bd7d6d49867dd55d13b7682e444c.js": "/cydneypollard/precache-manifest.e119bd7d6d49867dd55d13b7682e444c.js",
-    "service-worker.js": "/cydneypollard/service-worker.js",
-    "static/css/main.b6512d3a.chunk.css.map": "/cydneypollard/static/css/main.b6512d3a.chunk.css.map",
-    "static/media/Screenshot101.png": "/cydneypollard/static/media/Screenshot101.f61891d0.png",
-    "static/media/crownclothesproj.png": "/cydneypollard/static/media/crownclothesproj.30b8e8d3.png",
-    "static/media/cydneyprofilepic.jpg": "/cydneypollard/static/media/cydneyprofilepic.7dffe192.jpg",
-    "static/media/feminakufrontpage.png": "/cydneypollard/static/media/feminakufrontpage.0a3bfa20.png",
-    "static/media/fiaworld.png": "/cydneypollard/static/media/fiaworld.c4f13c1b.png",
-    "static/media/logomark.png": "/cydneypollard/static/media/logomark.95e178f5.png",
-    "static/media/pony.png": "/cydneypollard/static/media/pony.c704df5b.png"
+    "main.css": "/static/css/main.b6512d3a.chunk.css",
+    "main.js": "/static/js/main.e62aba64.chunk.js",
+    "main.js.map": "/static/js/main.e62aba64.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a5592e98.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a5592e98.js.map",
+    "static/js/2.19e738d1.chunk.js": "/static/js/2.19e738d1.chunk.js",
+    "static/js/2.19e738d1.chunk.js.map": "/static/js/2.19e738d1.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.bfd71da171cbbf1dc1404399f73e3661.js": "/precache-manifest.bfd71da171cbbf1dc1404399f73e3661.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.b6512d3a.chunk.css.map": "/static/css/main.b6512d3a.chunk.css.map",
+    "static/media/Screenshot101.png": "/static/media/Screenshot101.f61891d0.png",
+    "static/media/crownclothesproj.png": "/static/media/crownclothesproj.30b8e8d3.png",
+    "static/media/cydneyprofilepic.jpg": "/static/media/cydneyprofilepic.7dffe192.jpg",
+    "static/media/feminakufrontpage.png": "/static/media/feminakufrontpage.0a3bfa20.png",
+    "static/media/fiaworld.png": "/static/media/fiaworld.c4f13c1b.png",
+    "static/media/logomark.png": "/static/media/logomark.95e178f5.png",
+    "static/media/pony.png": "/static/media/pony.c704df5b.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.78cae229.js",
+    "static/js/runtime-main.a5592e98.js",
     "static/js/2.19e738d1.chunk.js",
     "static/css/main.b6512d3a.chunk.css",
-    "static/js/main.e4d3508a.chunk.js"
+    "static/js/main.e62aba64.chunk.js"
   ]
 }
